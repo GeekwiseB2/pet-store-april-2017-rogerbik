@@ -51,3 +51,22 @@
 .services {
   margin-bottom: 20px;
 }
+
+footer {
+  height: 150px;
+  background-color: #000000;
+  padding-top: 8px;
+}
+
+footer img {
+  width: 120px;
+
+}
+
+.section-border {
+  border-right: 1px solid #323232;
+}
+
+.medium-grey {
+  color: #aaaaab;
+}
