@@ -39,3 +39,15 @@
   padding:9px;
 
 }
+
+.featured {
+  text-align: center;
+}
+
+.featured p {
+  margin: 20px;
+}
+
+.services {
+  margin-bottom: 20px;
+}
